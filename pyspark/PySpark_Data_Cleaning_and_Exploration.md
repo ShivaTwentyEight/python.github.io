@@ -315,14 +315,4 @@ to_date()
 
 ---
 
-### ✅ This cheat sheet is GitHub-ready
 
-You can save it as:
-
-```
-PySpark_Data_Cleaning_and_Exploration.md
-```
-
----
-
-**Next step**: Analysis & window-function practice 🚀
